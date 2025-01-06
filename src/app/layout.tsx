@@ -124,14 +124,11 @@ export default function RootLayout({
                   © 2025 Freepiker. All rights reserved.
                 </div>
                 <div className="flex space-x-6 mt-4 md:mt-0">
-                  <a href="#" className="text-gray-400 hover:text-white">
-                    Twitter
-                  </a>
-                  <a href="#" className="text-gray-400 hover:text-white">
-                    GitHub
-                  </a>
-                  <a href="#" className="text-gray-400 hover:text-white">
-                    Discord
+                  <a
+                    href="https://t.me/freepiker24bot"
+                    className="text-gray-400 hover:text-white"
+                  >
+                    Freepiker24bot
                   </a>
                 </div>
               </div>
