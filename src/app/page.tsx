@@ -36,7 +36,7 @@ const LandingPage = () => {
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
             Join thousands of designers who save money while getting unlimited
-            access to Freepik's vast library of resources.
+            access to Freepiks vast library of resources.
           </p>
           <div className="flex justify-center space-x-4">
             <a
