@@ -28,25 +28,6 @@ const LandingPage = () => {
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Navigation */}
-      <nav className="flex items-center justify-between p-6 max-w-7xl mx-auto">
-        <div className="text-2xl font-bold text-blue-600">Freepiker</div>
-        <div className="space-x-6">
-          <a href="/pricing" className="text-gray-600 hover:text-gray-900">
-            Pricing
-          </a>
-          <a href="/login" className="text-gray-600 hover:text-gray-900">
-            Login
-          </a>
-          <a
-            href="/signup"
-            className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700"
-          >
-            Get Started
-          </a>
-        </div>
-      </nav>
-
       {/* Hero Section */}
       <div className="max-w-7xl mx-auto px-6 py-24">
         <div className="text-center">
