@@ -31,26 +31,10 @@ const footerLinks = {
     { name: "Features", href: "#" },
     { name: "Pricing", href: "/pricing" },
     { name: "FAQ", href: "/faq" },
-    { name: "API", href: "#" },
   ],
-  Support: [
-    { name: "Documentation", href: "#" },
-    { name: "Contact", href: "/contact" },
-    { name: "Live Chat", href: "#" },
-    { name: "Status", href: "#" },
-  ],
-  Company: [
-    { name: "About", href: "#" },
-    { name: "Blog", href: "#" },
-    { name: "Careers", href: "#" },
-    { name: "Press", href: "#" },
-  ],
-  Legal: [
-    { name: "Terms", href: "/terms" },
-    { name: "Privacy", href: "#" },
-    { name: "Cookies", href: "#" },
-    { name: "Licenses", href: "#" },
-  ],
+  Support: [{ name: "Contact", href: "/contact" }],
+  Company: [{ name: "About", href: "#" }],
+  Legal: [{ name: "Terms", href: "/terms" }],
 };
 
 export default function RootLayout({
